@@ -1,0 +1,11 @@
+name: scilSat
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas
+  - geopandas
+  - folium
+  - ipykernel
+prefix: C:\Users\wifire-modeler\miniconda3\envs\scilSat
