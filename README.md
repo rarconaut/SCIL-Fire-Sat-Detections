@@ -1,17 +1,13 @@
 # SCIL-Fire-Sat-Detections
-SCIL Synthetic Fire Detection Satellite Constellation data collection for NDP cataloguing.
+## Satellite-Based Active Fire Detections (WIFIRE Firemap Geoserver API)
 
-Satellite-Based Active Fire Detections (NASA FIRMS API)
 Organization:
-
 WIFIRE
 
 Creator Name:
-
 Rawaf al Rawaf
 
 Last Updated:
-
 April 20, 2026 at 17:00 PST
 
 These IPython notebooks allow users to view and download satellite heat detections from the SCIL Lab's WIFIRE Firemap Geoserver API. The user must select one of the satellite source notebooks (VIIRS, MODIS, OR GOES) and then specify a coordinate bounding box, start datetime, and end datetime. Executing the entire IPYNB notebook returns a JSON and downloads JSON, CSV, and/or zipped Shapefile of the features, including the geographic coordinates and timestamps for fire hotspot detections corresponding to the user-defined parameters.
