@@ -14,7 +14,10 @@ These IPython notebooks allow users to view and download satellite heat detectio
 
 
 
-IMPORTANT: The first available VIIRS detection starts from 2016-08-11T09:20:00Z.
+IMPORTANT: 
+- The first available VIIRS detection starts from 2016-08-11T09:20:00Z.
+- The first available MODIS detection starts from 2017-05-20T21:35:00Z.
+- The first available MODIS detection starts from 2021-01-20T18:00:25Z, with the majority of coverage in southern California and Arizona.
 
 Data and Resources
 Satellite Detections Retrieval - IPython Notebooks
