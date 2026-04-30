@@ -1,5 +1,5 @@
 # SCIL-Fire-Sat-Detections
-## Satellite-Based Active Fire Detections (WIFIRE Firemap Geoserver API)
+## Satellite-Based Active Fire Detections (VIIRS/MODIS/GOES)
 
 Organization:
 SCIL-WIFIRE
