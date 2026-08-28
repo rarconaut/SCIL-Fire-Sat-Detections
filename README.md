@@ -8,7 +8,7 @@ Creator Name:
 Rawaf al Rawaf
 
 Last Updated:
-April 30, 2026 at 7:00 PST
+August 28, 2026
 
 These Jupyter Notebooks allow users to view and download satellite heat detections from the UC San Diego Societal Computing and Innovation Lab's WIFIRE Program using the Firemap and AI Collaborative: Wildfires (AIC:W) Geoserver APIs. The user must select one of the satellite source notebooks (AIC:W Synthetic Constellation, VIIRS, MODIS, OR GOES) and then specify a coordinate bounding box, start datetime, and end datetime. Executing an entire PYNB notebook returns a JSON and downloads JSON, CSV, PNG, HTML webmaps, and/or zipped Shapefile of the features, including the geographic coordinates and timestamps for heat detections corresponding to the user-defined parameters.
 
