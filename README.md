@@ -14,7 +14,7 @@ These Jupyter Notebooks allow users to view and download satellite heat detectio
 
 Instructions
 
-The user must select one of the satellite source notebooks (AICW_Synthetic_Constellation, VIIRS, MODIS, OR GOES) and then specify a coordinate bounding box, start datetime, and end datetime.
+The user must select one of the satellite source notebooks (AICW_Synthetic_Constellation, Firemap VIIRS, Firemap MODIS, OR Firemap GOES) and then specify a coordinate bounding box, start datetime, and end datetime.
 
 Objectives
 - Search for Satellite heat detections by datetime range
